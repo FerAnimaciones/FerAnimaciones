@@ -11,9 +11,15 @@ Hi. I’m Fernando. I build tools for game development on this account and the [
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=feranimaciones&show_icons=true" alt="feranimaciones" /> </p>
+
+
+
 <p align="center">
 <a href="https://twitter.com/feranimaciones" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="feranimaciones" height="20" width="20" /></a>
+<a href="https://www.youtube.com/c/feranimaciones" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="feranimaciones" height="20" width="20" /></a>
 </p>
+
 
 <!--
 **FerAnimaciones/FerAnimaciones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
